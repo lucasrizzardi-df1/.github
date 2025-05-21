@@ -19,7 +19,7 @@
 <div align="center">
   <h1>
     <a href="https://www.defcon1.com.br/contato/">
-      Entre em contato atravez do link
+      Entre em contato através do link
     </a>
   </h1>
 </div>
